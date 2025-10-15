@@ -1,0 +1,14 @@
+{
+    "PI_PATTERN_MATCH": {
+      "atlas_technique_id": "AML.T0051",
+      "atlas_technique_name": "LLM Prompt Injection"
+    },
+    "PII_DETECTED": {
+      "atlas_technique_id": "AML.T0057",
+      "atlas_technique_name": "LLM Data Leakage"
+    },
+    "RATE_LIMIT_EXCEEDED": {
+      "atlas_technique_id": "AML.T0029",
+      "atlas_technique_name": "Denial of ML Service"
+    }
+  }
